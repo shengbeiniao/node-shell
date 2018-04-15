@@ -1,0 +1,11 @@
+{
+  "name": "node-shell",
+  "version": "1.0.0",
+  "description": "基于shelljs的前端自动化脚本",
+  "scripts": {
+    "release": "echo Hello world"
+  },
+  "dependencies": {
+     "shelljs": "^0.8.1"
+  }
+}
